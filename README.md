@@ -6,8 +6,11 @@
 
 #### Install :
 ```
+ $ pkg update && pkg upgrade
  $ pkg install python
  $ pkg install python git
+ $ pip install rich
+ $ rm -rf marshal
  $ git clone https://github.com/Xyaa-Code/marshal
 ```
 
