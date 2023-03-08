@@ -16,7 +16,7 @@
 
 #### Run :
 ```
- $ cd $HOME/Marshal
+ $ cd $HOME/marshal
  $ git pull
  $ python run.py
 ```
